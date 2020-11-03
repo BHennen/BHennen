@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on [my website](https://bhennen.github.io) and this document.
+I’m currently working on [my website](https://bhennen.github.io) and this document.
 
 
 <!-- TODO:
